@@ -18,6 +18,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -62,4 +63,8 @@ This repository documents my journey of solving LeetCode problems using **Python
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
