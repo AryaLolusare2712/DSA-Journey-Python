@@ -6,9 +6,10 @@ class Solution(object):
         """
         a = 0
         
-        while 0 in nums:
-            nums.remove(0)
-            a += 1
-        
-        for i in range(a):
-            nums.append(0)
+        for i in range(len(nums)):
+            if nums[i] != 0:
+                nums[a] = nums[i]
+                a += 1
+
+        for i in range(a, len(nums)):
+            nums[i] = 0
