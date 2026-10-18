@@ -4,7 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        result = [0] * len(nums)
+        result = [1] * len(nums)
 
         prefix = 1
         for i in range(len(nums)):
