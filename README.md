@@ -14,16 +14,19 @@ This repository documents my journey of solving LeetCode problems using **Python
 | ------- |
 | [0053-maximum-subarray](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0242-valid-anagram) |
 ## String
@@ -39,8 +42,17 @@ This repository documents my journey of solving LeetCode problems using **Python
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0283-move-zeroes) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
