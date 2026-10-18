@@ -35,6 +35,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
@@ -51,6 +52,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0283-move-zeroes) |
 ## Counting
 |  |
