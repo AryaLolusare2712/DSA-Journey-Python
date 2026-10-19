@@ -4,6 +4,9 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
+        if len(s) == 0:
+            return 0
+            
         seen = set()
         best = 1
         left = 0
@@ -15,4 +18,4 @@ class Solution(object):
             seen.add(s[right])
             best = max(best, right - left + 1)
         
-        return best if len(s) > 0 else 0
+        return best
