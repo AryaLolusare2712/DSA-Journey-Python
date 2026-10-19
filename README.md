@@ -16,6 +16,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 | [0015-3sum](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0169-majority-element) |
@@ -85,4 +86,8 @@ This repository documents my journey of solving LeetCode problems using **Python
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0424-longest-repeating-character-replacement) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
