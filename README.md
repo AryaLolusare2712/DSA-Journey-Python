@@ -20,6 +20,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 | [0088-merge-sorted-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0283-move-zeroes) |
@@ -76,6 +77,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0238-product-of-array-except-self) |
 ## Greedy
 |  |
@@ -85,9 +87,14 @@ This repository documents my journey of solving LeetCode problems using **Python
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0424-longest-repeating-character-replacement) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0066-plus-one) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
