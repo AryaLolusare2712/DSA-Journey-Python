@@ -66,6 +66,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 | ------- |
 | [0053-maximum-subarray](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,4 +121,5 @@ This repository documents my journey of solving LeetCode problems using **Python
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
