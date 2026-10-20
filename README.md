@@ -28,6 +28,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 | [0209-minimum-size-subarray-sum](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0283-move-zeroes) |
 | [0525-contiguous-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0560-subarray-sum-equals-k) |
@@ -38,6 +39,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 | [0169-majority-element](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0560-subarray-sum-equals-k) |
@@ -49,6 +51,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 | [0169-majority-element](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -105,6 +108,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -113,6 +117,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -122,4 +127,5 @@ This repository documents my journey of solving LeetCode problems using **Python
 | ------- |
 | [0136-single-number](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
