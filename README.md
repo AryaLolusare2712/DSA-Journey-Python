@@ -1,4 +1,4 @@
-# 🐍 DSA Journey with Python
+# DSA Journey with Python
 
 This repository documents my journey of solving LeetCode problems using **Python**. Each accepted submission adds to my growing collection of coding solutions and helps me practice algorithmic thinking.
 
