@@ -4,8 +4,9 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        count = Counter(nums)
+        xor = 0
+
+        for num in nums:
+            xor ^= num
         
-        for i in set(nums):
-            if count[i] == 1:
-                return i
+        return xor
