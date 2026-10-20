@@ -15,6 +15,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 | [0011-container-with-most-water](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0088-merge-sorted-array) |
@@ -103,6 +104,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
