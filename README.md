@@ -1,8 +1,8 @@
 # 🐍 DSA Journey with Python
 
-This repository documents my journey of solving LeetCode problems using **Python 3**. Each accepted submission adds to my growing collection of coding solutions and helps me practice algorithmic thinking.
+This repository documents my journey of solving LeetCode problems using **Python**. Each accepted submission adds to my growing collection of coding solutions and helps me practice algorithmic thinking.
 
-- **Language:** Python 3
+- **Language:** Python
 - **Platform:** LeetCode
 - **Sync:** LeetCode to GitHub
 - **Focus:** Data Structures, Algorithms and Interview Preparation
