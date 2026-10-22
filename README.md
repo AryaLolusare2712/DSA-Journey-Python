@@ -40,6 +40,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 | [0217-contains-duplicate](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0560-subarray-sum-equals-k) |
@@ -52,12 +53,14 @@ This repository documents my journey of solving LeetCode problems using **Python
 | [0217-contains-duplicate](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0424-longest-repeating-character-replacement) |
 ## Dynamic Programming
 |  |
@@ -128,4 +131,5 @@ This repository documents my journey of solving LeetCode problems using **Python
 | [0136-single-number](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
