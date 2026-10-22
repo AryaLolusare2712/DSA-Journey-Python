@@ -5,10 +5,9 @@ class Solution(object):
         :rtype: int
         """
         count = 0
-        binary = str(bin(n))
 
-        for i in binary:
-            if i == '1':
-                count += 1
+        while n > 0:
+            count += n & 1
+            n = n >> 1
         
         return count
