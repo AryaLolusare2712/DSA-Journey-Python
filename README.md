@@ -111,6 +111,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -130,6 +131,11 @@ This repository documents my journey of solving LeetCode problems using **Python
 | ------- |
 | [0136-single-number](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0389-find-the-difference) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
