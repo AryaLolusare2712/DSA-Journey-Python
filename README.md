@@ -141,6 +141,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 | [0371-sum-of-two-integers](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0461-hamming-distance) |
+| [0476-number-complement](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0476-number-complement) |
 ## Recursion
 |  |
 | ------- |
