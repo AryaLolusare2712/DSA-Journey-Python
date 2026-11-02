@@ -117,6 +117,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 | [0231-power-of-two](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0371-sum-of-two-integers) |
+| [1486-xor-operation-in-an-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1486-xor-operation-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -145,6 +146,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 | [0461-hamming-distance](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1009-complement-of-base-10-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
 |  |
 | ------- |
