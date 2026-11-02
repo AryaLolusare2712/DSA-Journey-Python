@@ -33,6 +33,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 | [0283-move-zeroes](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0283-move-zeroes) |
 | [0525-contiguous-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0560-subarray-sum-equals-k) |
+| [1720-decode-xored-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1720-decode-xored-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +148,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 | [0476-number-complement](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1009-complement-of-base-10-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1486-xor-operation-in-an-array) |
+| [1720-decode-xored-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1720-decode-xored-array) |
 ## Recursion
 |  |
 | ------- |
