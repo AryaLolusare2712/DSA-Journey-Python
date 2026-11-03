@@ -35,6 +35,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 | [0525-contiguous-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0560-subarray-sum-equals-k) |
 | [1310-xor-queries-of-a-subarray](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1310-xor-queries-of-a-subarray) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1720-decode-xored-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1720-decode-xored-array) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 | [0424-longest-repeating-character-replacement](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0560-subarray-sum-equals-k) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Sorting
 |  |
 | ------- |
@@ -104,6 +106,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 | [0525-contiguous-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0560-subarray-sum-equals-k) |
 | [1310-xor-queries-of-a-subarray](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1310-xor-queries-of-a-subarray) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Greedy
 |  |
 | ------- |
@@ -121,6 +124,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 | [0231-power-of-two](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0371-sum-of-two-integers) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1486-xor-operation-in-an-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1486-xor-operation-in-an-array) |
 ## Binary Search
 |  |
@@ -152,6 +156,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 | [0476-number-complement](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1009-complement-of-base-10-integer) |
 | [1310-xor-queries-of-a-subarray](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1310-xor-queries-of-a-subarray) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1486-xor-operation-in-an-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1720-decode-xored-array) |
 ## Recursion
