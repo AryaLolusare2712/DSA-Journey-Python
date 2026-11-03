@@ -23,6 +23,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 | [0088-merge-sorted-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0169-majority-element) |
@@ -144,6 +145,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 | ------- |
 | [0078-subsets](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0201-bitwise-and-of-numbers-range) |
