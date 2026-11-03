@@ -7,7 +7,7 @@ class Solution(object):
         """
         shift = 0
         
-        while left != right:
+        while left < right:
             left >>= 1
             right >>= 1
             shift += 1
