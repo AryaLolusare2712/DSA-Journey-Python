@@ -5,7 +5,6 @@ class Solution(object):
         :rtype: List[int]
         """
         xor = 0
-        result = []
 
         for i in range(len(nums)):
             xor ^= nums[i]
