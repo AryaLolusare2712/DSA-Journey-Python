@@ -1,173 +1,129 @@
-# DSA Journey with Python
+# ⚡ Coding Solutions Portfolio
 
-This repository documents my journey of solving LeetCode problems using **Python**. Each accepted submission adds to my growing collection of coding solutions and helps me practice algorithmic thinking.
+> Automatically organized, analyzed, and updated by **CodeSyncVault**.
 
-- **Language:** Python
-- **Platform:** LeetCode
-- **Sync:** LeetCode to GitHub
-- **Focus:** Data Structures, Algorithms and Interview Preparation
+[![Total Solved](https://img.shields.io/badge/Total%20Solved-1-6e40c9)](docs/AllProblems.md) [![Basic](https://img.shields.io/badge/Basic-0-4c9aff)](docs/Basic.md) [![Easy](https://img.shields.io/badge/Easy-1-2ea44f)](docs/Easy.md) [![Medium](https://img.shields.io/badge/Medium-0-f9a825)](docs/Medium.md) [![Hard](https://img.shields.io/badge/Hard-0-d73a49)](docs/Hard.md) [![Powered by CodeSyncVault](https://img.shields.io/badge/Powered%20by-CodeSyncVault-6e40c9)](https://github.com/vivekkushwahaofficial/CodeSyncVault)
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0011-container-with-most-water](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0011-container-with-most-water) |
-| [0015-3sum](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0015-3sum) |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0033-search-in-rotated-sorted-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0033-search-in-rotated-sorted-array) |
-| [0053-maximum-subarray](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0053-maximum-subarray) |
-| [0066-plus-one](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0066-plus-one) |
-| [0074-search-a-2d-matrix](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0074-search-a-2d-matrix) |
-| [0078-subsets](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0078-subsets) |
-| [0088-merge-sorted-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0088-merge-sorted-array) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| [0136-single-number](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0136-single-number) |
-| [0137-single-number-ii](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0137-single-number-ii) |
-| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
-| [0162-find-peak-element](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0162-find-peak-element) |
-| [0169-majority-element](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0169-majority-element) |
-| [0209-minimum-size-subarray-sum](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0209-minimum-size-subarray-sum) |
-| [0217-contains-duplicate](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0217-contains-duplicate) |
-| [0238-product-of-array-except-self](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0238-product-of-array-except-self) |
-| [0260-single-number-iii](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0260-single-number-iii) |
-| [0268-missing-number](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0268-missing-number) |
-| [0283-move-zeroes](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0283-move-zeroes) |
-| [0525-contiguous-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0525-contiguous-array) |
-| [0560-subarray-sum-equals-k](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0560-subarray-sum-equals-k) |
-| [1310-xor-queries-of-a-subarray](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1310-xor-queries-of-a-subarray) |
-| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
-| [1720-decode-xored-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1720-decode-xored-array) |
-## Hash Table
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0169-majority-element](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0169-majority-element) |
-| [0217-contains-duplicate](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0217-contains-duplicate) |
-| [0242-valid-anagram](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0242-valid-anagram) |
-| [0268-missing-number](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0268-missing-number) |
-| [0389-find-the-difference](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0389-find-the-difference) |
-| [0424-longest-repeating-character-replacement](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0424-longest-repeating-character-replacement) |
-| [0525-contiguous-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0525-contiguous-array) |
-| [0560-subarray-sum-equals-k](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0560-subarray-sum-equals-k) |
-| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
-## Sorting
-|  |
-| ------- |
-| [0015-3sum](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0015-3sum) |
-| [0088-merge-sorted-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0088-merge-sorted-array) |
-| [0169-majority-element](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0169-majority-element) |
-| [0217-contains-duplicate](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0217-contains-duplicate) |
-| [0242-valid-anagram](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0242-valid-anagram) |
-| [0268-missing-number](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0268-missing-number) |
-| [0389-find-the-difference](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0389-find-the-difference) |
-## String
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0125-valid-palindrome](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0125-valid-palindrome) |
-| [0242-valid-anagram](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0242-valid-anagram) |
-| [0389-find-the-difference](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0389-find-the-difference) |
-| [0424-longest-repeating-character-replacement](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0424-longest-repeating-character-replacement) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0053-maximum-subarray](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0053-maximum-subarray) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| [0338-counting-bits](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0338-counting-bits) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0053-maximum-subarray](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0053-maximum-subarray) |
-| [0169-majority-element](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0169-majority-element) |
-| [0190-reverse-bits](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0190-reverse-bits) |
-| [0191-number-of-1-bits](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0191-number-of-1-bits) |
-## Two Pointers
-|  |
-| ------- |
-| [0011-container-with-most-water](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0011-container-with-most-water) |
-| [0015-3sum](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0015-3sum) |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0088-merge-sorted-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0088-merge-sorted-array) |
-| [0125-valid-palindrome](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0125-valid-palindrome) |
-| [0283-move-zeroes](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0283-move-zeroes) |
-## Counting
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0169-majority-element) |
-## Boyer–Moore Majority Vote Algorithm
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0169-majority-element) |
-## Prefix Sum
-|  |
-| ------- |
-| [0209-minimum-size-subarray-sum](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0209-minimum-size-subarray-sum) |
-| [0238-product-of-array-except-self](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0238-product-of-array-except-self) |
-| [0525-contiguous-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0525-contiguous-array) |
-| [0560-subarray-sum-equals-k](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0560-subarray-sum-equals-k) |
-| [1310-xor-queries-of-a-subarray](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1310-xor-queries-of-a-subarray) |
-| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
-## Greedy
-|  |
-| ------- |
-| [0011-container-with-most-water](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0011-container-with-most-water) |
-## Sliding Window
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0209-minimum-size-subarray-sum](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0209-minimum-size-subarray-sum) |
-| [0424-longest-repeating-character-replacement](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0424-longest-repeating-character-replacement) |
-## Math
-|  |
-| ------- |
-| [0066-plus-one](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0066-plus-one) |
-| [0231-power-of-two](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0231-power-of-two) |
-| [0268-missing-number](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0268-missing-number) |
-| [0371-sum-of-two-integers](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0371-sum-of-two-integers) |
-| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
-| [1486-xor-operation-in-an-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1486-xor-operation-in-an-array) |
-## Binary Search
-|  |
-| ------- |
-| [0033-search-in-rotated-sorted-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0033-search-in-rotated-sorted-array) |
-| [0074-search-a-2d-matrix](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0074-search-a-2d-matrix) |
-| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
-| [0162-find-peak-element](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0162-find-peak-element) |
-| [0209-minimum-size-subarray-sum](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0209-minimum-size-subarray-sum) |
-| [0268-missing-number](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0268-missing-number) |
-## Matrix
-|  |
-| ------- |
-| [0074-search-a-2d-matrix](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0074-search-a-2d-matrix) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0078-subsets](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0078-subsets) |
-| [0136-single-number](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0136-single-number) |
-| [0137-single-number-ii](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0137-single-number-ii) |
-| [0190-reverse-bits](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0190-reverse-bits) |
-| [0191-number-of-1-bits](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0191-number-of-1-bits) |
-| [0201-bitwise-and-of-numbers-range](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0201-bitwise-and-of-numbers-range) |
-| [0231-power-of-two](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0231-power-of-two) |
-| [0260-single-number-iii](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0260-single-number-iii) |
-| [0268-missing-number](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0268-missing-number) |
-| [0338-counting-bits](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0338-counting-bits) |
-| [0371-sum-of-two-integers](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0371-sum-of-two-integers) |
-| [0389-find-the-difference](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0389-find-the-difference) |
-| [0461-hamming-distance](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0461-hamming-distance) |
-| [0476-number-complement](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0476-number-complement) |
-| [1009-complement-of-base-10-integer](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1009-complement-of-base-10-integer) |
-| [1310-xor-queries-of-a-subarray](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1310-xor-queries-of-a-subarray) |
-| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
-| [1486-xor-operation-in-an-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1486-xor-operation-in-an-array) |
-| [1720-decode-xored-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1720-decode-xored-array) |
-## Recursion
-|  |
-| ------- |
-| [0231-power-of-two](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0231-power-of-two) |
-## Backtracking
-|  |
-| ------- |
-| [0078-subsets](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0078-subsets) |
-<!---LeetCode Topics End-->
+---
+
+## 📑 Table of Contents
+
+- [📚 Solution Documentation](#-solution-documentation)
+- [📈 Detailed Statistics](#-detailed-statistics)
+- [⚙️ Workflow & Automation](#️-workflow--automation)
+- [🗂 Repository](#-repository)
+
+## 📊 Overview
+
+| Metric | Count |
+| --- | ---: |
+| 🏆 Total Solved | 1 |
+| 🔵 Basic | 0 |
+| 🟢 Easy | 1 |
+| 🟠 Medium | 0 |
+| 🔴 Hard | 0 |
+
+## 📈 Progress
+
+| Difficulty | Progress | Solved |
+| --- | --- | ---: |
+| 🔵 Basic | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/1 |
+| 🟢 Easy | ████████████████████ 100% | 1/1 |
+| 🟠 Medium | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/1 |
+| 🔴 Hard | ░░░░░░░░░░░░░░░░░░░░ 0% | 0/1 |
+
+## 🔥 Coding Activity
+
+![CodeSyncVault Coding Activity](.codevault/activity.svg)
+
+## 🧩 Pattern Index
+
+_No pattern data yet._
+
+## 📚 Topic Index
+
+| Topic | Problems |
+| --- | ---: |
+| [Array](topics/Array.md) | 1 |
+| [Math](topics/Math.md) | 1 |
+
+## 💻 Languages
+
+| Language | Problems |
+| --- | ---: |
+| Python | 1 |
+
+## 🌐 Platforms
+
+| Platform | Problems |
+| --- | ---: |
+| HackerRank | 1 |
+
+## 🕒 Recently Solved
+
+| Problem | Difficulty | Language | Platform | Date |
+| --- | --- | --- | --- | --- |
+| [Left Rotation](HackerRank/Python/Easy/Left-Rotation/README.md) | Easy | Python | HackerRank | 2026-11-22 |
+
+## 📚 Solution Documentation
+
+| Resource | Description |
+| --- | --- |
+| 📚 [All Problems](docs/AllProblems.md) | Complete solution index |
+| 🔵 [Basic](docs/Basic.md) | Basic difficulty solutions |
+| 🟢 [Easy](docs/Easy.md) | Easy difficulty solutions |
+| 🟠 [Medium](docs/Medium.md) | Medium difficulty solutions |
+| 🔴 [Hard](docs/Hard.md) | Hard difficulty solutions |
+| 🧩 [Patterns](patterns/) | Problems grouped by solving pattern |
+| 📚 [Topics](topics/) | Problems grouped by topic |
+
+## 📈 Detailed Statistics
+
+Explore the complete repository analytics including:
+
+- Difficulty distribution
+- Platform distribution
+- Language usage
+- Pattern distribution
+- Topic distribution
+
+➡️ **[View Detailed Statistics](stats/progress.md)**
+
+## ⚙️ Workflow & Automation
+
+CodeSyncVault automatically keeps this repository organized:
+
+```text
+Accepted Solution
+       ↓
+Metadata Extraction
+       ↓
+Pattern & Topic Analysis
+       ↓
+Solution Packaging
+       ↓
+GitHub Sync
+       ↓
+Repository Index Update
+       ↓
+README & Documentation Regeneration
+```
+
+No manual statistics or documentation maintenance is required.
+
+## 🗂 Repository
+
+| Resource | Purpose |
+| --- | --- |
+| 📚 [.codevault/index.json](.codevault/index.json) | Repository source of truth |
+| 🔥 [.codevault/activity.svg](.codevault/activity.svg) | Coding activity heatmap |
+| 🧩 [patterns/](patterns/) | Pattern-based indexes |
+| 📚 [topics/](topics/) | Topic-based indexes |
+| 📖 [docs/](docs/) | Difficulty & problem documentation |
+| 📈 [stats/](stats/) | Repository statistics |
+
+---
+
+### 🤖 Powered by CodeSyncVault
+
+This README and the repository documentation are generated automatically from the CodeSyncVault repository index.

@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "solutions": [
+    {
+      "path": "HackerRank/Python/Easy/Left-Rotation/Solution.py",
+      "metadata": {
+        "platform": "HackerRank",
+        "title": "Left Rotation",
+        "slug": "array-left-rotation",
+        "difficulty": "Easy",
+        "language": "Python",
+        "url": "https://www.hackerrank.com/challenges/array-left-rotation/problem?isFullScreen=true",
+        "solvedAt": "2026-11-22T15:18:34.000Z",
+        "patterns": [],
+        "topics": [
+          "Array",
+          "Math"
+        ],
+        "tags": [
+          "Array",
+          "Math"
+        ]
+      },
+      "solvedAt": "2026-11-22T15:18:34.000Z"
+    }
+  ]
+}
