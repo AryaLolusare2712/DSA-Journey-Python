@@ -167,6 +167,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0231-power-of-two) |
 ## Backtracking
@@ -176,6 +177,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
