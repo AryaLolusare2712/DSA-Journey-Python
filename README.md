@@ -35,6 +35,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 | [0283-move-zeroes](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0283-move-zeroes) |
 | [0525-contiguous-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0739-daily-temperatures) |
 | [1310-xor-queries-of-a-subarray](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1720-decode-xored-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/1720-decode-xored-array) |
@@ -196,6 +197,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 | [0020-valid-parentheses](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -204,4 +206,8 @@ This repository documents my journey of solving LeetCode problems using **Python
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
