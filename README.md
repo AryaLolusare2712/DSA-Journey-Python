@@ -1,5 +1,15 @@
 # DSA Journey with Python
 
+## Learning architecture
+
+```mermaid
+flowchart LR
+  T[Topic roadmap] --> C[Concept explanations]
+  C --> I[Python implementations]
+  I --> P[Practice problems]
+  P --> R[Progress and revision]
+```
+
 This repository documents my journey of solving LeetCode problems using **Python**. Each accepted submission adds to my growing collection of coding solutions and helps me practice algorithmic thinking.
 
 - **Language:** Python
