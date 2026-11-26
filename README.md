@@ -1,5 +1,19 @@
 # DSA Journey with Python
 
+## Installation
+
+Clone the repository and run an individual Python solution from its problem folder:
+
+```bash
+git clone https://github.com/AryaLolusare2712/DSA-Journey-Python.git
+cd DSA-Journey-Python
+python path/to/solution.py
+```
+
+## Project contribution
+
+Offers a structured, Python-first path through common data-structures-and-algorithms problems for consistent practice and revision.
+
 ## Learning architecture
 
 ```mermaid
