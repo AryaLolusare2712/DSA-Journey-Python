@@ -59,6 +59,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 | [0260-single-number-iii](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0739-daily-temperatures) |
@@ -74,6 +75,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 | [0217-contains-duplicate](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0525-contiguous-array) |
@@ -89,6 +91,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 | [0217-contains-duplicate](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0389-find-the-difference) |
 ## String
 |  |
@@ -113,6 +116,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 | [0190-reverse-bits](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,6 +133,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -244,8 +249,14 @@ This repository documents my journey of solving LeetCode problems using **Python
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
