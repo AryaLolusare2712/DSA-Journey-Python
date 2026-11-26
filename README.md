@@ -24,6 +24,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0169-majority-element) |
@@ -128,6 +129,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0371-sum-of-two-integers) |
@@ -196,6 +198,7 @@ This repository documents my journey of solving LeetCode problems using **Python
 | ------- |
 | [0020-valid-parentheses](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/AryaLolusare2712/DSA-Journey-Python/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
